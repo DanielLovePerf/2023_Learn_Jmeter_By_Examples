@@ -1,3 +1,7 @@
-this is a course series of JMeter and it will show you step by step details about how to use JMeter to do performance testing.
+This is a course series of JMeter and it will show you step by step details about how to use JMeter to do performance testing.
 
-and you can go to my Youtube channel: Performance TEST LabCN @DanielYuan
+in this course I'm going to guide you everything you need to know to get started in JMeter. 
+
+I designed this course especially for JMeter, and each lesson has been specially designed with examples that will help you along the way.
+
+and you can go to my Youtube channel for video coursed: Performance TEST LabCN @DanielYuan
