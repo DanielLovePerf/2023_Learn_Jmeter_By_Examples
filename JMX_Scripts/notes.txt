@@ -1,7 +1,0 @@
-Notice: Please install plugins as below from plugins manager, then you can open these script correctly:
-  3 Basic Graphs
-  Custom Thread Groups
-  Dummy Sampler
-  KPI vs KPI Graphs
-  jmeter - HTTP Protocol Support
-  jmeter - Various Core Components
