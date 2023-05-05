@@ -1,0 +1,2 @@
+(?i).*\.(bmp|css|js|gif|ico|jpe?g|png|wsf|woff)[\?;].*
+(?i).*\.(bmp|css|js|gif|ico|jpe?g|png|wsf|woff)
